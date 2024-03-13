@@ -1,4 +1,3 @@
-# FCC_CatPhotoApp
 <h1>Project Title: CatPhotoApp</h1>
   
   <h2>Project Description:</h2>
