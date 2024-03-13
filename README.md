@@ -27,7 +27,8 @@
   </ol>
   
   <h2>Project URL:</h2>
-  <p>https://github.com/mequsaibaker/FCC_CatPhotoApp</p>
+  <p>GitHub: https://github.com/mequsaibaker/FCC_CatPhotoApp</p>
+  <p>CodePen: https://codepen.io/mequsaibaker/details/abxdXpG</p>
   
   <h2>Project Status:</h2>
   <p>Completed</p>
